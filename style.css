@@ -1,0 +1,38 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+body{
+ background-color:rgb(42, 183, 226);
+}
+.navbar{
+ background-color:rgb(235, 71, 71);
+}
+.navbar-toggler{
+ background-color:rgb(53, 14, 196);
+ padding: 0.4em;
+}
+#search-bar{
+ justify-content: center;
+ align-items: center;
+ max-width: 600px;
+ padding: 0;
+ position: relative;
+ left: 3em;
+}
+#heading{
+ position: relative;
+ top:0.4em;
+}
+#show-more{
+ position: relative;
+ right: .8em;
+ height: 1.5em;
+ background-color: rgb(187, 42, 114);
+}
+#tofvrt{
+ position: relative;
+ left: .8em;
+ height: 1.5em;
+ background-color:rgb(241, 12, 12);
+}
